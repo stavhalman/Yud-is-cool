@@ -37,7 +37,7 @@ void setup() {
   digitalWrite(motor2pin2, LOW);
   digitalWrite(motor3pin1, LOW);
   digitalWrite(motor3pin2, LOW);
-  analogWrite(EnA, 100);
+  analogWrite(EnA, 75);
   analogWrite(EnB, 50);
   analogWrite(EnC, 50);
   
